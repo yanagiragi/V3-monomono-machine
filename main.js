@@ -3,6 +3,7 @@ var cookie = require('cookie')
 var decode = require('urlencode')
 
 var str = 'http://www.spike-chunsoft.co.jp/monomono-machine/gacha?u='
+var base = 1482067126359
 
 next()
 
